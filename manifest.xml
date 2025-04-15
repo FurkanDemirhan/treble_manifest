@@ -23,4 +23,8 @@
   
 <project path="packages/apps/FaceUnlock" name="Evolution-X/packages_apps_FaceUnlock" remote="github" revision="vic" />
 <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="gitlab" revision="vic" />
+<project path="packages/apps/Terminal" name="LineageOS/android_packages_apps_AndroidTerm" remote="github" revision="master" />
+<project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" remote="github" revision="lineage-22.2" />
+<project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" remote="github" revision="lineage-22.2" />
+<project path="packages/apps/KISS" name="Neamar/KISS" remote="github" revision="master" />
 </manifest>
